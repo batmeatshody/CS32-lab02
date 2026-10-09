@@ -1,0 +1,10 @@
+*.o
+*.obj
+testStudent00
+testStudent01
+testStudent02
+testStudent03
+testStudentRoll00
+testStudentRoll01
+testStudentRoll02
+__MACOSX/
